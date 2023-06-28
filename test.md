@@ -1,5 +1,5 @@
-upstream: this is test file
+upstream: ym
 
-upstream: testtest
+upstream: ym
 
 upstream: ym
